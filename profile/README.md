@@ -1,3 +1,5 @@
+![GitHub stars](https://img.shields.io/github/stars/World-of-Domino?style=social)
+
 This organization includes cross-platform versions of the domino game.
 
 These software products contain several variants of proven game algorithms.
