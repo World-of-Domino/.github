@@ -14,6 +14,26 @@ The main directions of the organization:
 
 ### Content:
 
+#### gui:
+
+* [domino-clips](https://github.com/World-of-Domino/domino-clips):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/World-of-Domino/domino-clips)
+![GitHub Release Date](https://img.shields.io/github/release-date/World-of-Domino/domino-clips)
+![GitHub repo size](https://img.shields.io/github/repo-size/World-of-Domino/domino-clips)
+![GitHub all releases](https://img.shields.io/github/downloads/World-of-Domino/domino-clips/total)
+* [jdomino](https://github.com/World-of-Domino/jdomino):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/World-of-Domino/jdomino)
+![GitHub Release Date](https://img.shields.io/github/release-date/World-of-Domino/jdomino)
+![GitHub repo size](https://img.shields.io/github/repo-size/World-of-Domino/jdomino)
+![GitHub all releases](https://img.shields.io/github/downloads/World-of-Domino/jdomino/total)
+* [pygame-dominos](https://github.com/World-of-Domino/pygame-dominos):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/World-of-Domino/pygame-dominos)
+![GitHub Release Date](https://img.shields.io/github/release-date/World-of-Domino/pygame-dominos)
+![GitHub repo size](https://img.shields.io/github/repo-size/World-of-Domino/pygame-dominos)
+![GitHub all releases](https://img.shields.io/github/downloads/World-of-Domino/pygame-dominos/total)
+
+#### cli:
+
 * [domino-ai](https://github.com/World-of-Domino/domino-ai):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/World-of-Domino/domino-ai)
 ![GitHub Release Date](https://img.shields.io/github/release-date/World-of-Domino/domino-ai)
@@ -24,11 +44,6 @@ The main directions of the organization:
 ![GitHub Release Date](https://img.shields.io/github/release-date/World-of-Domino/dominoc)
 ![GitHub repo size](https://img.shields.io/github/repo-size/World-of-Domino/dominoc)
 ![GitHub all releases](https://img.shields.io/github/downloads/World-of-Domino/dominoc/total)
-* [domino-clips](https://github.com/World-of-Domino/domino-clips):
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/World-of-Domino/domino-clips)
-![GitHub Release Date](https://img.shields.io/github/release-date/World-of-Domino/domino-clips)
-![GitHub repo size](https://img.shields.io/github/repo-size/World-of-Domino/domino-clips)
-![GitHub all releases](https://img.shields.io/github/downloads/World-of-Domino/domino-clips/total)
 * [dominoes](https://github.com/World-of-Domino/dominoes):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/World-of-Domino/dominoes)
 ![GitHub Release Date](https://img.shields.io/github/release-date/World-of-Domino/dominoes)
@@ -40,15 +55,5 @@ The main directions of the organization:
 ![GitHub Release Date](https://img.shields.io/github/release-date/World-of-Domino/dominogame)
 ![GitHub repo size](https://img.shields.io/github/repo-size/World-of-Domino/dominogame)
 ![GitHub all releases](https://img.shields.io/github/downloads/World-of-Domino/dominogame/total)
-* [jdomino](https://github.com/World-of-Domino/jdomino):
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/World-of-Domino/jdomino)
-![GitHub Release Date](https://img.shields.io/github/release-date/World-of-Domino/jdomino)
-![GitHub repo size](https://img.shields.io/github/repo-size/World-of-Domino/jdomino)
-![GitHub all releases](https://img.shields.io/github/downloads/World-of-Domino/jdomino/total)
-* [pygame-dominos](https://github.com/World-of-Domino/pygame-dominos):
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/World-of-Domino/pygame-dominos)
-![GitHub Release Date](https://img.shields.io/github/release-date/World-of-Domino/pygame-dominos)
-![GitHub repo size](https://img.shields.io/github/repo-size/World-of-Domino/pygame-dominos)
-![GitHub all releases](https://img.shields.io/github/downloads/World-of-Domino/pygame-dominos/total)
 * [python-dominoes](https://github.com/World-of-Domino/python-dominoes):
 ![GitHub repo size](https://img.shields.io/github/repo-size/World-of-Domino/python-dominoes)
